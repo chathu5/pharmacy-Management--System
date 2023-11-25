@@ -1,0 +1,12 @@
+C:\Users\asust\OneDrive\Desktop\E165243-Final Project\E165243 Final Project\bin\Debug\E165243 Final Project.exe.config
+C:\Users\asust\OneDrive\Desktop\E165243-Final Project\E165243 Final Project\bin\Debug\E165243 Final Project.exe
+C:\Users\asust\OneDrive\Desktop\E165243-Final Project\E165243 Final Project\bin\Debug\E165243 Final Project.pdb
+C:\Users\asust\OneDrive\Desktop\E165243-Final Project\E165243 Final Project\obj\Debug\E165243 Final Project.csproj.AssemblyReference.cache
+C:\Users\asust\OneDrive\Desktop\E165243-Final Project\E165243 Final Project\obj\Debug\E165243 Final Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\asust\OneDrive\Desktop\E165243-Final Project\E165243 Final Project\obj\Debug\E165243_Final_Project.FrmLogin.resources
+C:\Users\asust\OneDrive\Desktop\E165243-Final Project\E165243 Final Project\obj\Debug\E165243_Final_Project.FrmRegistration.resources
+C:\Users\asust\OneDrive\Desktop\E165243-Final Project\E165243 Final Project\obj\Debug\E165243_Final_Project.Properties.Resources.resources
+C:\Users\asust\OneDrive\Desktop\E165243-Final Project\E165243 Final Project\obj\Debug\E165243 Final Project.csproj.GenerateResource.cache
+C:\Users\asust\OneDrive\Desktop\E165243-Final Project\E165243 Final Project\obj\Debug\E165243 Final Project.csproj.CoreCompileInputs.cache
+C:\Users\asust\OneDrive\Desktop\E165243-Final Project\E165243 Final Project\obj\Debug\E165243 Final Project.exe
+C:\Users\asust\OneDrive\Desktop\E165243-Final Project\E165243 Final Project\obj\Debug\E165243 Final Project.pdb
